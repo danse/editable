@@ -1,0 +1,21 @@
+{
+  "name": "editable",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^2.0.0",
+    "purescript-console": "^2.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^2.0.0"
+  },
+  "resolutions": {
+    "purescript-eff": "^2.0.0",
+    "purescript-prelude": "^2.0.0",
+    "purescript-console": "^2.0.0"
+  }
+}
